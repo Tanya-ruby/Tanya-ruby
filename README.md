@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Tanya
+- Information science engineering student! 
 - 👀 I’m interested in Web3 and MERN
 - 🌱 I’m currently learning Foundry
 - 💞️ I’m looking to collaborate on Web3 projects
